@@ -1,0 +1,2 @@
+- Làm thêm databse để kết nối người dùng
+- Làm thêm tính năng sử dụng để có thể xem trên các máy tính không cùng lớp mạng, chứ nếu truy cập khác máy thì không có dữ liệu đổ về cho admin
